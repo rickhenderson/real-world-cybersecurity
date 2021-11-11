@@ -29,8 +29,17 @@ It's useful because if you learn enough Python, then if you are doing a penetrat
 I didn't think I'd need to know so much about the dirty details of Windows programming. I did years of programming in VBA, which is good for analysing macro viruses, so many more malicious exploits and payloads are written in C/C++/C# as binaries that it's good to know what they do and how they work. Since I work in anti-malware, I need to understand how malware works in order to foil it.
 
 #### Tutorials
+
+##### DLL? What's the DeaLL?
+You might know of DLLs as Dynamic Linked Libraries, but how much do you really know about them? Windows DLLs share the same file format as executable files. So you'll want to learn about file images, and [the PE file format](https://docs.microsoft.com/en-us/archive/msdn-magazine/2002/february/inside-windows-win32-portable-executable-file-format-in-detail). If you deal with Linux at all, you'll want to [learn about the ELF file format](https://linuxhint.com/understanding_elf_file_format/).
+
+Understanding DLLs is one of the reasons you should learn more about assembly programming.
+
 ##### Hooking
 Malware and endpoint response and detection (EDR) systems rely on process hooking.
 * https://www.cynet.com/attack-techniques-hands-on/api-hooking/
 
+### Reading References
+* PE File Format
+  * https://docs.microsoft.com/en-us/windows/win32/debug/pe-format
 
