@@ -37,7 +37,8 @@ Understanding DLLs is one of the reasons you should learn more about assembly pr
 
 ##### Hooking
 Malware and endpoint response and detection (EDR) systems rely on process hooking.
-* https://www.cynet.com/attack-techniques-hands-on/api-hooking/
+* https://www.cynet.com/attack-techniques-hands-on/api-hooking/ - Nice tutorial with good basics, but not all the required code is presented.
+* https://docs.microsoft.com/en-us/windows/win32/winmsg/about-hooks - Whenever possible, learn from the source is what I always say.
 
 ### Reading References
 * PE File Format
