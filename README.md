@@ -43,4 +43,6 @@ Malware and endpoint response and detection (EDR) systems rely on process hookin
 ### Reading References
 * PE File Format
   * https://docs.microsoft.com/en-us/windows/win32/debug/pe-format
+* Shellcode
+  * <https://www.exploit-db.com/docs/english/13019-shell-code-for-beginners.pdf> - haven't read it yet.
 
