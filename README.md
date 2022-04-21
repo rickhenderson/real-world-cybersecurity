@@ -45,4 +45,7 @@ Malware and endpoint response and detection (EDR) systems rely on process hookin
   * https://docs.microsoft.com/en-us/windows/win32/debug/pe-format
 * Shellcode
   * <https://www.exploit-db.com/docs/english/13019-shell-code-for-beginners.pdf> - haven't read it yet.
+  * <https://vividmachines.com/shellcode/shellcode.html> - By Steve Hanna - VERY accessible, great start. Make sure you use his `arwin.c` tool to find the addresses for your Windows platform version of the API calls (changes with version).
+  * <https://doc.lagout.org/security/The%20Shellcoder%E2%80%99s%20Handbook.pdf> - Shellcoder's Handbook - Highly Recommended - Heavy Read (745 pgs!)
+  
 
