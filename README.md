@@ -15,6 +15,8 @@ Seriously. Learn it. Memorize it. Learn how attacks and new malware can map to t
 ### Windbag aka WinDBG
 You'll see a lot of references to people using [x64dbg](https://x64dbg.com/#start), but a lot of the older hackers/blueteamers will tell you the power of [WinDBG](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools).
 
+I've recently got a copy of [Hacking: The Art of Exploitation](https://www.amazon.com/dp/1593271441/ref=cm_sw_em_r_mt_dp_6JR1759HVF3PE9TKA37Y) and started going through the tutorial on using GDB on Linux. I found it very approachable and much easier to follow than with WinDBG and even IDA. By following through the sections on assembly language, I was finally about to understand EXACTLY what people mean about the stack grows down and heap grows up. Don't worry, you'll get it.
+
 ### Assembly Language Programming
 Yep. That.
 A lot of tutorials show how to do it in Linux but there is a great tutorial on writing ASM in Visual Studio as well.
