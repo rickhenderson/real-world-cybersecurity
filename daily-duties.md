@@ -19,3 +19,5 @@ Some things are directly related to my duties, and some are things that I do to 
 * Look into WSL and see how malware can cross from WSL into Windows, as discovered by [Black Lotus Labs](https://blog.lumen.com/windows-subsystem-for-linux-wsl-threats/)
 * Learn about Excel4 macro-based malware. Tip: Use OpenOffice or LibreOffice to investigate Excel or Word malware. If you do so from a Linux machine or VM you can't get infected, but even using LibreOffice on Windows is safe because it won't AutoOpen or autorun macros, and the object model is different, so malware won't run. Just be careful.
 * Learn and simulate Excel/Word VBA macro-based malware (maldocs).
+* Use [Metasploit](https://www.metasploit.com/) (specifically, [msfvenom](https://www.offensive-security.com/metasploit-unleashed/msfvenom/)) to generate basic shellcode to test with that will run calc.exe on the target.
+  * From REMNUX--or any distro--you can install Metasploit aka the Metasploit Framework, and use msfvenom on it's own.
