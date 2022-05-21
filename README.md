@@ -38,6 +38,15 @@ msfvenom --arch x64 --platform windows -p windows/x64/exec CMD=calc.exe -f pytho
 ```
 A good learning exercise will be to look at the `msfvenom` Help pages and figure out how this shellcode will work.
 
+### CVSS
+The **Common Vulnerability Scoring System** is an industry standard used to rank software vulnerabilities based on how they affect the **CIA triad** - Confidentiality, Integrity, and Availablity. You will hear about the triad a lot.
+I use the CVSS almost every day, and it is good to learn how to read a CVSS vector like this:
+```
+CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H
+```
+
+Luckily, there is a [free online course](https://www.first.org/cvss/training) that will explain everything you need to know. It will take sometime to get used to reading CVSS vectors and better still, score a vulnerabiility as it applies to your own system or company. That just takes practice. It is also good to be able to discuss your scoring with someone else with experience with CVSS.
+
 #### Tutorials
 
 ##### DLL? What's the DeaLL?
