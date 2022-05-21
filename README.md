@@ -28,6 +28,16 @@ It's useful because if you learn enough Python, then if you are doing a penetrat
 ### Windows API Programming
 I didn't think I'd need to know so much about the dirty details of Windows programming. I did years of programming in VBA, which is good for analysing macro viruses, so many more malicious exploits and payloads are written in C/C++/C# as binaries that it's good to know what they do and how they work. Since I work in anti-malware, I need to understand how malware works in order to foil it.
 
+### Shellcode
+It took me a while to really understand shellcode. The name is actually a bit confusing. Even when someone tried to explain that it opens a shell, I still didn't know what it meant! Since I never trust shellcode I didn't make (it's usually Base64 encoded or simply written in Assembly hex) I used msfvenom to generate a block of shellcode that will try to open calc.exe on a target.
+
+Instead of placing the shellcode here, I'll give you the [msfvenom](https://www.offensive-security.com/metasploit-unleashed/msfvenom/) command to use to generate it:
+
+```bash
+msfvenom --arch x64 --platform windows -p windows/x64/exec CMD=calc.exe -f python -v popCalc
+```
+A good learning exercise will be to look at the `msfvenom` Help pages and figure out how this shellcode will work.
+
 #### Tutorials
 
 ##### DLL? What's the DeaLL?
