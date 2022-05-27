@@ -52,6 +52,9 @@ Luckily, there is a [free online course](https://www.first.org/cvss/training) th
 ### Malware Analysis
 I have a complete [Malware Analysis](malware-analysis.md) page.
 
+### Threat Intelligence (TI)
+And you can visit the [Threat Intelligence](threat-intelligence.md) page.
+
 #### Tutorials
 
 ##### DLL? What's the DeaLL?
