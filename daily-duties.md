@@ -12,7 +12,7 @@ Some things are directly related to my duties, and some are things that I do to 
 * Reading threat analysis from [Palo Alto's Unit42](https://unit42.paloaltonetworks.com/) - they're very good.
 * Re-evaluated an older advisory. The assessment was written by someone with WAY more knowledge than me (former long-term Microsoft employee) but I was able to understand and properly describe a Time of Check Time of Use (TOCTOU) scenario. Back in Nov of last year I didn't really understand the vulnerability.
 * Helped someone from a completely different product team deal with something involving our product.
-* Analyzed the Follina vulnerability and developed a proof of concept (POC). Then found out it was a wasted effort... but I learned a lot so not completely a waste.
+* Analyzed the [Follina vulnerability](https://www.huntress.com/blog/microsoft-office-remote-code-execution-follina-msdt-bug) and developed a proof of concept (POC). Then found out it was a wasted effort... but I learned a lot so not completely a waste.
 * Investigated vulnerabilites in MariaDB to see if our products are effected.
 * Realized that some body else in the organization would know more about the product vulnerabilities than I - but then dove in to learn about threat assessment and threat modeling.
 
