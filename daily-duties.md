@@ -6,6 +6,16 @@ An intern student recently asked me how they can learn about cybersecurity, and 
 So I'm going to use this space to list things that I've had to do as a Security Response Analyst I working on a Product Security (PSIRT) team.
 Some things are directly related to my duties, and some are things that I do to try and learn something that will likely come up in future, because I've dealt with them at some point.
 
+## June 2022
+* Finding it hard to keep up hear unless I write something immediately :)
+* Networked with corporate cybersecurity leaders, including the VP.
+* Reading threat analysis from [Palo Alto's Unit42](https://unit42.paloaltonetworks.com/) - they're very good.
+* Re-evaluated an older advisory. The assessment was written by someone with WAY more knowledge than me (former long-term Microsoft employee) but I was able to understand and properly describe a Time of Check Time of Use (TOCTOU) scenario. Back in Nov of last year I didn't really understand the vulnerability.
+* Helped someone from a completely different product team deal with something involving our product.
+* Analyzed the Follina vulnerability and developed a proof of concept (POC). Then found out it was a wasted effort... but I learned a lot so not completely a waste.
+* Investigated vulnerabilites in MariaDB to see if our products are effected.
+* Realized that some body else in the organization would know more about the product vulnerabilities than I - but then dove in to learn about threat assessment and threat modeling.
+
 ## May 2022
 * Write Yara rules for livehunting on VirusTotal to look for samples of `SilentBreak`. At this point in time, [researchers at Kaspersky released a number of indicators of compromise](https://securelist.com/a-new-secret-stash-for-fileless-malware/106393/) (IoCs) including MD5 hashes, ip addresses, and URLS indentified as being used in a campaign called `SilentBreak`. However, there seem to be no samples released by the researchers, or found elsewhere.
 * Installed [Postgresql](https://www.postgresql.org/) on Ubuntu/[REMNUX](https://remnux.org/) to try and get a copy of [BinNavi](https://github.com/google/binnavi) running, but I don't know enough about Postgresql, and a few of the tutorials I found don't help in exactly what I need. Surprisingly, the unsupported product (now owned by Google) propery compiled from source code. I just need to get the database set up.
