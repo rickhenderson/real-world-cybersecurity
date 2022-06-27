@@ -15,6 +15,9 @@ Some things are directly related to my duties, and some are things that I do to 
 * Analyzed the [Follina vulnerability](https://www.huntress.com/blog/microsoft-office-remote-code-execution-follina-msdt-bug) and developed a proof of concept (POC). Then found out it was a wasted effort... but I learned a lot so not completely a waste.
 * Investigated vulnerabilites in MariaDB to see if our products are effected.
 * Realized that some body else in the organization would know more about the product vulnerabilities than I - but then dove in to learn about threat assessment and threat modeling.
+* Learned about CI/CD pipelines in GitLab: <https://youtu.be/mnYbOrj-hLY>
+* Investigate code involved with Chromium libcef.dll.
+* Develop PoC of a malicious PDF file - found great workshop by Didier Stevens: <https://www.youtube.com/playlist?list=PLa-ohdLO29_Y2FeT24w-c9nA_AH84MIpp>.
 
 ## May 2022
 * Write Yara rules for livehunting on VirusTotal to look for samples of `SilentBreak`. At this point in time, [researchers at Kaspersky released a number of indicators of compromise](https://securelist.com/a-new-secret-stash-for-fileless-malware/106393/) (IoCs) including MD5 hashes, ip addresses, and URLS indentified as being used in a campaign called `SilentBreak`. However, there seem to be no samples released by the researchers, or found elsewhere.
