@@ -21,6 +21,7 @@ Some things are directly related to my duties, and some are things that I do to 
 * Import libraries into a C# project using NuGet: https://docs.microsoft.com/en-us/nuget/consume-packages/install-use-packages-visual-studio, but also there is just the Package Management console for commandline action.
 * Inject a DLL into a running process to see if it can be blocked. Used ReflectiveDLLInjection: https://github.com/stephenfewer/ReflectiveDLLInjection (Does Adobe Reader really stop AV products from scanning it?)
 * Getting my C# code to work with enterprise level C# code that an entire team wrote. Or more correctly, trying to build an app using an existing framework.
+* Clone a Github repo into GitLab, but also need to figure out how to get an existing local repo into GitLab.
 
 ## May 2022
 * Write Yara rules for livehunting on VirusTotal to look for samples of `SilentBreak`. At this point in time, [researchers at Kaspersky released a number of indicators of compromise](https://securelist.com/a-new-secret-stash-for-fileless-malware/106393/) (IoCs) including MD5 hashes, ip addresses, and URLS indentified as being used in a campaign called `SilentBreak`. However, there seem to be no samples released by the researchers, or found elsewhere.
