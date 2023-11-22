@@ -6,6 +6,10 @@ An intern student recently asked me how they can learn about cybersecurity, and 
 So I'm going to use this space to list things that I've had to do as a Security Response Analyst I working on a Product Security (PSIRT) team.
 Some things are directly related to my duties, and some are things that I do to try and learn something that will likely come up in future, because I've dealt with them at some point.
 
+## November 2023
+* Watched this amazing video on side-channel attacks to understand CVE-2023-5981: <https://www.youtube.com/watch?v=D1DNz5sNDgE> to determine if our product was vulnerable to it.
+* Investigated the results of a pentest and tried to duplicate results using an LSASS dump via Mimikatz and StaticSyscallsDump. Need to test a website for user access vulnerabilities.
+
 ## June 2022
 * Finding it hard to keep up hear unless I write something immediately :)
 * Networked with corporate cybersecurity leaders, including the VP.
