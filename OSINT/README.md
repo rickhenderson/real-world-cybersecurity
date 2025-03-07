@@ -8,5 +8,5 @@ OSINT focuses on gathering information from sources that are freely available wi
 
 ## Courses
 
-* https://www.cybertraining.ca/course/osint/ - by [Ritu Gill](https://x.com/osinttechniques) at [](https://www.osinttechniques.com/)
+* https://www.cybertraining.ca/course/osint/ - by [Ritu Gill](https://x.com/osinttechniques) at [OSINTTechniques.com](https://www.osinttechniques.com/)
 * 
