@@ -6,7 +6,7 @@ In August 2020, I received my CompTIA Security+ certification after working as a
 In July 2021 I got hired as a **security response analyst** at [BlackBerry](https://blackberry.com) -- a company well known for their secure foundations. 
 (THEY DON'T MAKE PHONES ANYMORE SO STOP ASKING ABOUT YOUR KEY2).
 
-In February 2025 my position supporting the Cylance EDR, EPP and other products via Product Security was made redundant.
+In February 2025 my position supporting the Cylance EDR, EPP and other products via Product Security was made redundant. The Cylance assets were sold to Arctic Wolf.
 
 In early 2025 I started a Substack account [to post about security and called it Hidden Security](https://substack.com/@rickhendersonco) until I could find a better name.
 
