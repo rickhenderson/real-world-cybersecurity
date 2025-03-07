@@ -16,3 +16,4 @@ But I get the meaning behind it so let's continue.
 
 * https://github.com/reversinglabs/reversinglabs-yara-rules
 * https://github.com/Neo23x0/signature-base (free database for [Nextron-Systems' THORLITE scanner](https://www.nextron-systems.com/thor-lite/) or other tools)
+* https://github.com/InQuest/awesome-yara - A larger repo of YARA rules than I can possibly collect anytime soon
