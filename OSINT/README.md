@@ -6,6 +6,11 @@ HUMINT is contrasted with SIGINT (Signals Intelligence) which deals with intelli
 
 OSINT focuses on gathering information from sources that are freely available without cost, usually on the Internet.
 
+
+## References
+
+* [HUMINT Substack by Sasha Ingber](https://sashaingber.substack.com/)
+
 ## Courses
 
 * https://www.cybertraining.ca/course/osint/ (requires fee, great price though!) - by [Ritu Gill](https://x.com/osinttechniques) at [OSINTTechniques.com](https://www.osinttechniques.com/)
