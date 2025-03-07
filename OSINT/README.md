@@ -11,6 +11,7 @@ OSINT focuses on gathering information from sources that are freely available wi
 
 * [HUMINT Substack by Sasha Ingber](https://sashaingber.substack.com/)
 
-## Courses
+## Courses & Resources
 
 * https://www.cybertraining.ca/course/osint/ (requires fee, great price though!) - by [Ritu Gill](https://x.com/osinttechniques) at [OSINTTechniques.com](https://www.osinttechniques.com/)
+* https://www.myosint.training/pages/free-resources by [WebBreacher](https://x.com/webbreacher) also of #OSINTCurious
