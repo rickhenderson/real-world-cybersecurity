@@ -3,8 +3,12 @@ A collection of useful resources for learning real world cybersecurity.
 
 In August 2020, I received my CompTIA Security+ certification after working as a computer instructor for 20 years. I've always had an interest in computer security and hacking. I worked in IT when CodeRed and Nimda hit. I was using snort and reading NTBugTraq in the early days, but it was rarely directly related to my work.
 
-In July 2021 I got hired as a **security research analyst** at [BlackBerry](https://blackberry.com) -- a company well known for their secure foundations. 
+In July 2021 I got hired as a **security response analyst** at [BlackBerry](https://blackberry.com) -- a company well known for their secure foundations. 
 (THEY DON'T MAKE PHONES ANYMORE SO STOP ASKING ABOUT YOUR KEY2).
+
+In February 2025 my position supporting the Cylance EDR, EPP and other products via Product Security was made redundant.
+
+In early 2025 I started a Substack account [to post about security and called it Hidden Security](https://substack.com/@rickhendersonco) until I could find a better name.
 
 ## Things You REALLY Need To Learn
 
