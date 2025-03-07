@@ -1,7 +1,7 @@
 # Real World Cybersecurity
 A collection of useful resources for learning real world cybersecurity.
 
-In August 2020, I received my CompTIA Security+ certification after working as a computer instructor for 20 years. 
+In August 2020, I received my CompTIA Security+ certification after working as a computer instructor for 20 years. I acheived my Masters of Education from Wilfrid Laurier University earlier that year.
 
 I've always had an interest in computer security and hacking. 
 * I worked in IT when the [CodeRed](https://www.caida.org/archive/code-red/) and [Nimda](https://en.wikipedia.org/wiki/Nimda) worms hit. I analyzed web logs to find evidence of them scanning the Internet.
