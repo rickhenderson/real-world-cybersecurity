@@ -54,10 +54,10 @@ CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H
 Luckily, there is a [free online course](https://www.first.org/cvss/training) that will explain everything you need to know. It will take sometime to get used to reading CVSS vectors and better still, score a vulnerabiility as it applies to your own system or company. That just takes practice. It is also good to be able to discuss your scoring with someone else with experience with CVSS.
 
 ### Malware Analysis
-I have a complete [Malware Analysis](malware-analysis.md) page.
+* I have a complete [Malware Analysis](malware-analysis.md) page.
 
 ### Threat Intelligence (TI)
-And you can visit the [Threat Intelligence](threat-intelligence.md) page.
+* And you can visit the [Threat Intelligence](threat-intelligence.md) page.
 
 ### Threat Detection Engineering
 * A detailed section has been created on [detection engineering page](detecting-threats/detection-engineering.md)
