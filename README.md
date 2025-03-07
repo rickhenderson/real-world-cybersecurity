@@ -12,7 +12,7 @@ In early 2025 I started a Substack account [to post about security and called it
 
 ## Table Of Contents Kindof Thingy
 
-* [Intelligence](intelligence/README.md)
+* [Intelligence](Intelligence/README.md)
 * [Malware Analysis](malware-analysis.md)
 * [OSINT](OSINT)
 * [Detecting Threats](detecting-threats)
