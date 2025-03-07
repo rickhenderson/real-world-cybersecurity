@@ -15,4 +15,4 @@ But I get the meaning behind it so let's continue.
 ## YARA Repos
 
 * https://github.com/reversinglabs/reversinglabs-yara-rules
-* 
+* https://github.com/Neo23x0/signature-base (free database for [Nextron-Systems' THORLITE scanner](https://www.nextron-systems.com/thor-lite/) or other tools)
