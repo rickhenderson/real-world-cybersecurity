@@ -11,3 +11,8 @@ But I get the meaning behind it so let's continue.
 * [About Detection Engineering by Florian Roth](https://medium.com/@cyb3rops/about-detection-engineering-44d39e0755f)
 * [How to write detailed YARA rules](https://www.reversinglabs.com/blog/writing-detailed-yara-rules-for-malware-detection)
 * [SigmaHQ](https://github.com/SigmaHQ/sigma)
+
+## YARA Repos
+
+* https://github.com/reversinglabs/reversinglabs-yara-rules
+* 
