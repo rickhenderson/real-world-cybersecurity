@@ -55,6 +55,12 @@ I have a complete [Malware Analysis](malware-analysis.md) page.
 ### Threat Intelligence (TI)
 And you can visit the [Threat Intelligence](threat-intelligence.md) page.
 
+### Threat Detection Engineering
+* A detailed section has been created on [detection engineering page](detecting-threats/detection-engineering.md)
+
+### Threat Hunting
+* Searching for malicious actors or threats in your current environment.
+
 #### Tutorials
 
 ##### DLL? What's the DeaLL?
