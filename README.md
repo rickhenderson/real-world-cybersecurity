@@ -4,8 +4,9 @@ A collection of useful resources for learning real world cybersecurity.
 In August 2020, I received my CompTIA Security+ certification after working as a computer instructor for 20 years. 
 
 I've always had an interest in computer security and hacking. 
-* I worked in IT when CodeRed and Nimda hit.
-* I was using snort and reading NTBugTraq in the early days, but it was rarely directly related to my work.
+* I worked in IT when the [CodeRed](https://www.caida.org/archive/code-red/) and [Nimda](https://en.wikipedia.org/wiki/Nimda) worms hit. I analyzed web logs to find evidence of them scanning the Internet.
+* I was using [snort](https://www.snort.org/) and reading NTBugTraq in the early days, but it was rarely directly related to my work.
+* My fourth year Computer Ethics paper was titled "A Brief Discussion on Computer Crime and Canadian Law" (1998) where I touched on the [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick) case... and I almost got him to sign it once!
 
 In July 2021 I got hired as a **security response analyst** at [BlackBerry](https://blackberry.com) -- a company well known for their secure foundations. 
 (THEY DON'T MAKE PHONES ANYMORE SO STOP ASKING ABOUT YOUR KEY2).
