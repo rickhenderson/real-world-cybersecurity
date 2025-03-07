@@ -10,6 +10,13 @@ In February 2025 my position supporting the Cylance EDR, EPP and other products 
 
 In early 2025 I started a Substack account [to post about security and called it Hidden Security](https://substack.com/@rickhendersonco) until I could find a better name.
 
+## Table Of Contents Kindof Thingy
+
+* [Intelligence](intelligence/README.md)
+* [Malware Analysis](malware-analysis.md)
+* [OSINT](OSINT)
+* [Detecting Threats](detecting-threats)
+
 ## Things You REALLY Need To Learn
 
 ### Mitre ATT&CK Framework
