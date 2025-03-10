@@ -13,9 +13,19 @@ In July 2021 I got hired as a **security response analyst** at [BlackBerry](http
 
 In February 2025 my position supporting the Cylance EDR, EPP and other products via Product Security was made redundant. The Cylance assets were sold to Arctic Wolf.
 
+For the past 3 years I have worked at BlackBerry in the Product Security department writing detection rules for CylanceOPTICS. My primary job was to write Optics rules for new and emerging threats. 
+
+I have investigated and written detections for Jupyter, BlackBasta loaders, Spyboy Terminator, Emotet, GootLoader, WhisperGate, HermeticWiper and many other malware samples protecting more than 2 million endpoints world-wide.
+
+I have experience with threat research, staying up-to-date on new techniques, analyzing malware and maldocs to create detections, as well as scripting, coding in Python, C#, C/C++, and developing and testing detections.
+
+On a daily basis I was writing Python scripts, reading malware write-ups, de-obfuscating malicious scripts in PowerShell, JavaScript, and Visual Basic. I would store scripts in Gitlab and search Github for malware and detections. 
+
+My work in Product Security included vulnerability management, binary scanning for static analysis, and determining if BlackBerry products were susceptible to reported vulnerabilities. This included a large number of open source libraries as well as BlackBerry proprietary code.
+
 In early 2025 I started a Substack account [to post about security and called it Hidden Security](https://substack.com/@rickhendersonco) until I could find a better name.
 
-## Table Of Contents Kindof Thingy
+## Table Of Contents Kind of Thingy
 
 * [Intelligence](Intelligence/README.md)
 * [Malware Analysis](malware-analysis.md)
