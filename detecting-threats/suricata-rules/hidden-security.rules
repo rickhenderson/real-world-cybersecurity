@@ -1,0 +1,1 @@
+alert tcp $EXTERNAL_NET any -> $HOME_NET [80, 8000, 8080] (msg: "TCP Possible Kali probe"; flow:established; content: "distrib#kali.2024"; nocase; sid:1000001; rev:1;) 
