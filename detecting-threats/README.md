@@ -7,3 +7,5 @@ Mostly malware.
 ## Contents
 
 * [Detection Engineering](detection-engineering.md)
+* [Yara Rules](yara-rules)
+* [Suricata Rules](suricata-rules/README.md)
