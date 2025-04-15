@@ -1,6 +1,7 @@
 # Code Red: Worm Assault on the Web
 
 *On October 21, 2002, hackers waged one of the most sophisticated cyber-attacks yet. The Code Red worm tried to bring down the Net last year using a similar strategy*
+
 *By Carolyn Meinel on October 28, 2002*
 
 (Ed: I have corrected some spacing and punctuation from the archived site)
