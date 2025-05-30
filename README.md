@@ -46,10 +46,14 @@ I've recently got a copy of [Hacking: The Art of Exploitation](https://www.amazo
 ### Assembly Language Programming
 Yep. That.
 A lot of tutorials show how to do it in Linux but there is a great tutorial on writing ASM in Visual Studio as well.
+* [PC Assembly by Paul Carter](https://pacman128.github.io/pcasm/) - Sort of well known starting point for assembly.
+  * Recommended starting point by [Josh Stroschein](https://www.youtube.com/watch?v=auOWDaufaes).    
 
 ### Python
 I stayed away from Python for a long time but it is a super handy language to write things quickly, and a lot of hacker tools are written in Python.
 It's useful because if you learn enough Python, then if you are doing a penetration test and the target has Python installed, you can write your own tools as you go.
+* [My Python Playground](https://github.com/rickhenderson/portfolio/tree/main/python-playground) - I created this as I was reviewing Python for a job interview. Not a recommended learning resource :).
+* [Black Hat Python](https://amzn.to/4mSOQfg) - Python Programming for Hackers and Pentesters **IS** a recommended learning resource if you want security specific Python and already have a coding background.
 
 ### PowerShell
 
@@ -86,6 +90,7 @@ Luckily, there is a [free online course](https://www.first.org/cvss/training) th
 
 ### Threat Hunting
 * Searching for malicious actors or threats in your current environment.
+* In my role as a security response analyst I used SQL to search Databricks across 2M endpoints for indicators that could be used for detection, or check for false positives, and a custom version of EQL in Cylance Console within my own test tenant.
 
 #### Tutorials
 
