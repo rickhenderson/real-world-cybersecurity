@@ -8,7 +8,7 @@ But I get the meaning behind it so let's continue.
 
 ## References
 
-* [About Detection Engineering by Florian Roth](https://medium.com/@cyb3rops/about-detection-engineering-44d39e0755f)
+* [About Detection Engineering by Florian Roth](https://medium.com/@cyb3rops/about-detection-engineering-44d39e0755f0)
 * [How to write detailed YARA rules](https://www.reversinglabs.com/blog/writing-detailed-yara-rules-for-malware-detection)
 * [Detailed YARA Style Guide](https://neo23x0.github.io/YARA-Style-Guide/)
 * [YARA Performance Guidelines](https://github.com/Neo23x0/YARA-Performance-Guidelines/)
